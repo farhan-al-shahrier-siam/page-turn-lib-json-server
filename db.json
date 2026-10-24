@@ -109,7 +109,52 @@
             "image_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=600&q=80"
         }
     ],
-    "catrgory":[
-        
+    "catrgory": [
+        {
+            "category_name": "Story",
+            "category_id": 1
+        },
+        {
+            "category_name": "Tech",
+            "category_id": 2
+        },
+        {
+            "category_name": "Science",
+            "category_id": 3
+        },
+        {
+            "category_name": "Mystery",
+            "category_id": 4
+        },
+        {
+            "category_name": "Fantasy",
+            "category_id": 5
+        }
+    ],
+    "new_arrivals": [
+        {
+            "id": 1,
+            "category": "New Arrivals",
+            "title": "The Midnight Library",
+            "author": "Matt Haig"
+        },
+        {
+            "id": 2,
+            "category": "Restocked",
+            "title": "Dune: Special Collector’s Edition",
+            "author": "Frank Herbert"
+        },
+        {
+            "id": 3,
+            "category": "Digital Lending",
+            "title": "Free Digital Books",
+            "author": "J.K. Rowling"
+        },
+        {
+            "id": 4,
+            "category": "Featured Book",
+            "title": "Atomic Habits",
+            "author": "James Clear"
+        }
     ]
 }
